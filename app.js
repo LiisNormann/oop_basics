@@ -15,6 +15,7 @@ console.log(liis)
 liis.greeting()
  */
 
+/*
 // Shape constructor
 function Shape(name, sides, sideLength) {
     // atributes - fields
@@ -28,6 +29,7 @@ function Shape(name, sides, sideLength) {
         console.log(this.perimeter)
     }
 }
+*/
 
 // object creation
 let square = new Shape("square", 4, 5)
